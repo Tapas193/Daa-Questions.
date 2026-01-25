@@ -8,7 +8,6 @@ This repository contains weekly DAA lab solutions from Week 1 to Week 13.
 - Proper problem names are used for clarity.
 
 ## Author
-Tapas Mishra
-##
-B.Tech (CSE).
+- Tapas Mishra
+- B.Tech (CSE).
 
